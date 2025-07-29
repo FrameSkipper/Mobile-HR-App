@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683310581323",
+    "project_id": "mobilehr-e6bbd",
+    "storage_bucket": "mobilehr-e6bbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683310581323:android:4a08b7d8f0f77309c6efce",
+        "android_client_info": {
+          "package_name": "com.example.hrmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENjlqZK0sqfB-VUO4lapSUbZyefF20Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
