@@ -1341,7 +1341,7 @@ class _EmployeesScreenState extends State<EmployeesScreen> {
                         ),
                         const SizedBox(height: 4),
                         Text(
-                          '\${employee.weeklyPay.toStringAsFixed(0)}/wk',
+                          '\$${employee.weeklyPay.toStringAsFixed(0)}/wk',
                           style: const TextStyle(
                             fontSize: 12,
                             fontWeight: FontWeight.bold,
